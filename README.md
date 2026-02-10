@@ -12,13 +12,17 @@ My background in software engineering gives me strong insight into application b
 ### Development
 - C#
 - .NET
+- Python
+- React
+- RESTful APIs
+- SQL Server
 - Debugging and architecture analysis
 
-### Cybersecurity (In Progress)
+### Cybersecurity
 - Networking fundamentals
 - Log analysis
 - Packet inspection (Wireshark)
-- Security fundamentals (Security+)
+- Security fundamentals
 
 ---
 
