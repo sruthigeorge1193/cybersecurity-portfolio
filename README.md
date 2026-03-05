@@ -28,6 +28,10 @@ My background in software engineering gives me strong insight into application b
 
 ## Projects
 
+### Home Cybersecurity Lab Setup
+Built a virtual lab environment to safely run security experiments and investigations.  
+[View Project](home-cybersecurity-lab/README.md)
+
 ### Log Analysis Lab
 Investigating Windows logs and detecting suspicious behavior  
 [View Project](log-analysis-lab/README.md)
