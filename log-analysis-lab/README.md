@@ -56,5 +56,7 @@ Reviewed core Linux system logs to trace file deletion and user activity.
 - The value of checking *both* failed and successful logons together —
   either alone tells an incomplete story
 
-## Screenshorts
+## Screenshots
+Screenshots of the VM setup and configuration are included in the `/screenshots` folder.
+
 
