@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio — Sruthi George
+# Portfolio — Sruthi George
 
 ## About Me
 I am a software developer with 5 years of experience in .NET transitioning into cybersecurity. I hold a Master’s degree in Computing (Cybersecurity) from Curtin University and am currently preparing for the CompTIA Security+ certification.
@@ -47,7 +47,6 @@ Security assessment of sample web application
 ---
 
 ## Certifications
-- CompTIA Security+ (In Progress)
 - CyberOps Associate, Cisco Networking Academy
 - Network Security, Cisco Networking Academy
   
