@@ -56,8 +56,5 @@ Reviewed core Linux system logs to trace file deletion and user activity.
 - The value of checking *both* failed and successful logons together —
   either alone tells an incomplete story
 
-## Related Project
-This log analysis was performed as part of a larger investigation — see
-[Incident Handling & Digital Forensics](../05-incident-handling-forensics/README.md)
-for the full attack scenario and additional evidence (memory forensics,
-file recovery, reverse shell detection).
+## Screenshorts
+
