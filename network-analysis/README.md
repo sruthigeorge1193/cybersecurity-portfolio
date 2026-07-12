@@ -40,11 +40,6 @@ positioned to intercept it on the network.
 - Filtering by protocol (`ftp`, `http`, `dns`, etc.) in Wireshark is the
   fastest way to isolate relevant traffic in a larger capture
 
-## Recommendation
-Replace FTP with an encrypted alternative (SFTP/FTPS) for any file transfer
-involving sensitive data, and monitor for outbound connections on
-unencrypted file-transfer ports.
-
 ## Screenshots
 Screenshots of the VM setup and configuration are included in the `/screenshots` folder.
 
