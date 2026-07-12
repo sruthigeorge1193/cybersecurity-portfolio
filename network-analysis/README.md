@@ -45,8 +45,6 @@ Replace FTP with an encrypted alternative (SFTP/FTPS) for any file transfer
 involving sensitive data, and monitor for outbound connections on
 unencrypted file-transfer ports.
 
-## Related Project
-This capture was taken as part of a larger investigation — see
-[Incident Handling & Digital Forensics](../05-incident-handling-forensics/README.md)
-for the full attack scenario, including the phishing lead-in and the
-subsequent reverse shell access.
+## Screenshots
+Screenshots of the VM setup and configuration are included in the `/screenshots` folder.
+
